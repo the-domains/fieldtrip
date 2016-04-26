@@ -1,28 +1,40 @@
-name: FieldTrip
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.48768
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: FieldTrip
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0.5
   brandColors:
     - '#000002'
     - '#0b233d'
     - '#4fafbd'
     - '#306a78'
     - '#d78860'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0
   rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.48768
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
