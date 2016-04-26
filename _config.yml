@@ -1,7 +1,7 @@
 name: FieldTrip
 favicon: null
-layout_spectrum: 0.3342930465005338
-typography_spectrum: 0.4739919730927795
+layout_spectrum: 1
+typography_spectrum: 0.48768
 cta:
   domain: null
   bucket: null
