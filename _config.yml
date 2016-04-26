@@ -1,0 +1,28 @@
+name: FieldTrip
+favicon: null
+layout_spectrum: 0.3342930465005338
+typography_spectrum: 0.4739919730927795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.019249745644629
+  lightness: 0.05164250428788364
+  saturation: 0.9977345338556916
+  rhythmicContrast: 0.021911706775426865
+purpose: []
