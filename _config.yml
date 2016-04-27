@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: FieldTrip
 opengraph:
   image: null
   type: null
@@ -21,7 +19,7 @@ collections:
 purpose: []
 color:
   saturation: 0
-  brandStrength: 1
+  brandStrength: 0.2060932
   lightness: 1
   brandColors:
     - '#000002'
@@ -31,10 +29,12 @@ color:
     - '#d78860'
   rhythmicContrast: 1
 typography_spectrum: 0.48768
-layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: FieldTrip
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
