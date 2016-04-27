@@ -1,5 +1,7 @@
-favicon: null
-name: FieldTrip
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#d78860'
   rhythmicContrast: 1
 typography_spectrum: 0.48768
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.8333333
+favicon: null
+name: FieldTrip
