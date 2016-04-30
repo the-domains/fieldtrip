@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FieldTrip]]></title>
         <description><![CDATA[FieldTrip]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fieldtrip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 01:21:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 05:17:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fieldtrip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a8367c7-b77c-46aa-803b-c6b60a972f60.jpg">]]></description>
+            <link>https://thegrid.ai/fieldtrip/5d554c88-7de6-42e5-b0a0-7eccc181c13e/index.html</link>
+            <guid isPermaLink="false">5d554c88-7de6-42e5-b0a0-7eccc181c13e</guid>
+            <pubDate>Sat, 30 Apr 2016 05:16:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Amazing Conversation Kicker</p>]]></description>
-            <link>undefinedd5baf6fd-b2a1-48a0-bb9a-b87630715c3f/index.html</link>
+            <link>https://thegrid.ai/fieldtrip/d5baf6fd-b2a1-48a0-bb9a-b87630715c3f/index.html</link>
             <guid isPermaLink="false">d5baf6fd-b2a1-48a0-bb9a-b87630715c3f</guid>
             <pubDate>Tue, 26 Apr 2016 01:21:08 GMT</pubDate>
         </item>
