@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: 'Please have your consent form signed and returned. '
 cta:
   domain: null
   bucket: null
